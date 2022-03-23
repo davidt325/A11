@@ -13,7 +13,8 @@ body {
 /* the styles for the header */
 header img {
 	float: left;
-	padding-bottom:1em;
+	padding-right:30px;
+	padding-left:30px;
 }
 header {
 	padding-top:1.5em;
