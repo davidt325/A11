@@ -36,6 +36,16 @@ main {
 }
 main h1 {
 	font-size: 150%;
+	border-top: 3px solid #931420;
+	border-bottom: 3px solid #931420;
+	padding-top: .3em;
+	padding-bottom: .3em;
+
+	border-radius: 10px;
+	border: 3px double #931420;
+	padding: 10px;
+	box-shadow: 5px 5px black;
+	background: white;
 }
 main h2 {
 	color: #800000;
