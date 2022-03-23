@@ -70,6 +70,12 @@ main h3 {
 a:focus, a:hover {
 	font-style: italic;
 }
+img.b{
+	padding-bottom:1em;
+}
+p.c{
+	padding-bottom: .5em;
+}
 /* the styles for the footer */
 footer{
 	text-align: center;
