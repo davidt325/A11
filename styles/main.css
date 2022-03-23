@@ -69,7 +69,7 @@ a:focus, a:hover {
 	font-style: italic;
 }
 /* the styles for the footer */
-footer p {
+footer{
 	text-align: center;
 	background-color:#931420;
 	border-style:solid;
