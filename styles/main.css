@@ -59,9 +59,12 @@ main h1 {
 main h2 {
 	color: #800000;
 	font-size: 130%;
+	margin-left: 120px;
 	padding-bottom: .25em;
+	padding-top:.5em;
 }
 main h3 {
+	padding-bottom:.25em;
 	font-size: 105%;
 }
 a:focus, a:hover {
