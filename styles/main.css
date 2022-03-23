@@ -49,8 +49,8 @@ header h3 {
 /* the styles for the main content */
 main {
 	clear: left;
-	padding-left: 30px;
 	padding-right:30px;
+	padding-left: 30px;
 }
 main h1 {
 	font-size: 150%;
